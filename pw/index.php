@@ -27,7 +27,7 @@ if (isset($_POST['cari'])) {
   <div class="card">
     
   <div class="card-header text-center "navbar style="font-size :30px; background-color: #FFB200; font-family: 'Aref Ruqaa Ink', serif;">
-   Daftar Buku
+   Daftar Buku Tokoh 
   </div>
   <div class="card-body">
     <h5  class="card-title"><a href="tambah.php">Tambah Data Buku</a></h5>
