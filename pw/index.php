@@ -32,7 +32,7 @@ if (isset($_POST['cari'])) {
   </div>
   <div class="card-body">
     <h5  class="card-title"><a href="tambah.php">Tambah Data Buku</a></h5>
-    <table class="table table-bordered text-center" style=" font-weight: bold; background-color: #FFC045; font-family: 'Aref Ruqaa Ink', serif;">
+    <table class="table table-bordered text-center">
   <tr>
       <th>ID BUKU</th>
       <th>NAMA BUKU</th>
