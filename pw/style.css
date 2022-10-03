@@ -7,6 +7,11 @@ body
     background-color: #FFC045; 
     font-family: 'Aref Ruqaa Ink', serif;
 }
+.card{
+    font-size :22px; 
+    background-color: #FFB200;
+     font-family: 'Aref Ruqaa Ink', serif;
+}
 .overlay {
         position: absolute;
         top: 0;
